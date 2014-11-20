@@ -10,7 +10,7 @@ import java.util.List;
 
 @WebService(portName = "WSTestPort",serviceName = "wsteste",endpointInterface = "pt.teste.WSTeste")
 public class WSTesteImp implements WSTeste {
-  @PersistenceContext(name = "persistenceUnit")
+  @PersistenceContext(unitName = "pu")
   private EntityManager entityManager;
 
   @Override
