@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <web-app version="2.5" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
-    <description>ST AA Prov: module AA Prov Service</description>
-    <display-name>AA Prov Services</display-name>
+    <description>Service</description>
+    <display-name>Service</display-name>
 
 </web-app>
